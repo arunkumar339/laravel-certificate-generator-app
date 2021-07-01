@@ -12,4 +12,4 @@ Required Columns
 - Class
 
 You may customize the app to your wish by editing **\App\Http\Controllers\PDFGeneratorController** file
-## Learning Laravel
+
